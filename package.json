@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mabhishekdwi/TestingRestAPI/issues"
   },
-  "homepage": "https://github.com/mabhishekdwi/TestingRestAPI#readme"
+  "homepage": "https://github.com/mabhishekdwi/TestingRestAPI#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
 }
