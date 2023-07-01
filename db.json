@@ -8,8 +8,8 @@
    
   ], 
 "users":[
-      id:1,
-      name:"Derson Ussuale,
-      password: "test"
+      "id":1,
+      "name":"Derson Ussuale,
+      "password": "test"
   ]
 }
